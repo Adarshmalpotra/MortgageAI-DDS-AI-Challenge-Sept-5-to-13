@@ -9,11 +9,10 @@ n8n Live Workflow Demo
 https://akmzoho.app.n8n.cloud/workflow/jKOCMXFHnfA3MjXr
 
 Project Website (Lovable Platform)  
-https://mortgagedash-ai.lovable.app/about
+https://mortgagedash-ai.lovable.app
 
-Primary Domain (WIX)  
-https://www.mortgageai.co.in  
-(Currently facing WIX–Aria editor restrictions; site not getting properly edited and giving improper result. Editing is temporarily kept on under hold and preferred to create project afresh at Lovable which is working properly and the domain migration to Lovable is in progress.)
+Primary Domain (Lovable)  
+https://mortgage-ai.app  
 
 🧭 Project Journey — From Concept to Final Build
 MortgageAI began as a simple idea:
